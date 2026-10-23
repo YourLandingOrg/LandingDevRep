@@ -41,3 +41,5 @@
 
 ## Cómo ver la ´LandingPage´
 https://yourlandingorg.github.io/LandingDevRep/
+
+> **Nota:** esta página solo muestra lo que ya fue aprobado y fusionado en `main`. Los cambios que están en revisión (Pull Requests) todavía no se ven aquí.
