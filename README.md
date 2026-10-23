@@ -39,5 +39,5 @@
 - Los issues se responden en un máximo de 9 días hábiles.
 - No se suben contraseñas, claves ni datos personales.
 
-## Cómo ver la página
-
+## Cómo ver la ´LandingPage´
+https://yourlandingorg.github.io/LandingDevRep/
