@@ -8,10 +8,10 @@
 | Rol | Responsable | Qué hace |
 |---|---|---|
 | Customer Success | RICARDO RODRIGUEZ ORTIZ | Valida que lo desarrollado coincida con lo que prometemos |
-| Managers | Sarah Michelle Olivares Carrera, JORGE KARIN MARTINEZ BEAS | Priorizan tareas, coordinan al equipo y cuidan las fechas |
+| Managers | SARAH MICHELLE OLIVARES CARRERA, JORGE KARIN MARTINEZ BEAS | Priorizan tareas, coordinan al equipo y cuidan las fechas |
 | Lead coder | BRAYAN ISAAC VAZQUEZ CORDERO | Revisa y aprueba los Pull Requests |
 | Programadores | RODRIGO BARRAZA ALMADA, CARLOS ENRIQUE GARCIA FERNANDEZ | Desarrollan la landing |
-| Ventas | EDGAR HAMLET SOLANO DIAZ, [Nombre] | Aportan necesidades del cliente y mensajes clave |
+| Ventas | EDGAR HAMLET SOLANO DIAZ| Aportan necesidades del cliente y mensajes clave |
 
 ## Dónde escribir qué
 
